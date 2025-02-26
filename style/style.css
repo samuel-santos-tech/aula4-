@@ -31,9 +31,14 @@ button {
     cursor: pointer;
 }
 
+input:hover {
+    border-color: rgb(199, 50, 199);
+}
+
 button:hover {
     background-color:  rgb(153, 37, 153);
 }
-h2 {
-    
+
+input {
+    outline-color: rgb(153, 37, 153);
 }
